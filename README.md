@@ -41,7 +41,7 @@ class Aravind:
     def current_focus(self):
         return "Building intelligent systems that solve real-world problems"
 ```
-```
+
 🛠️ Tech Stack
 Languages
 https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
@@ -78,4 +78,4 @@ WhatsApp AI Bot	Node.js, WebSocket, Gemini API	Intelligent chatbot with multiple
 🌐 Let's Connect
 <div align="center"> <a href="mailto:arnair126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/Aravind-R-Nair-8321482b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/ardr000005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </div>
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/> </div> 
