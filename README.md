@@ -60,7 +60,18 @@ WhatsApp AI Bot	Node.js, WebSocket, Gemini API	Intelligent chatbot with multiple
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardr000005&theme=radical&hide_border=true" width="48%"> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true"> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
+
 🌐 Let's Connect
 <div align="center"> <a href="mailto:arnair126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/Aravind-R-Nair-8321482b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/ardr000005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </div>
-<div align="center"> <p style="font-size: 1.2rem; font-style: italic;"> "I may not be there yet, but I'm closer than I was yesterday.<br> Every error fixed, every bug solved, every line of code written -<br> they're all steps forward in this incredible journey." </p> </div>
+
+<div align="center">
+  <p style="font-size: 1.2rem; font-style: italic;">
+    "You don't have to be a genius to start —<br>
+    you just need the courage to begin, the patience to learn,<br>
+    and the fire to keep showing up every single day."<br>
+    — Anonymous
+  </p>
+</div>
+
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"> </div> 
