@@ -61,8 +61,8 @@ WhatsApp AI Bot	Node.js, WebSocket, Gemini API	Intelligent chatbot with multiple
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
 
-🌐 Let's Connect
-### 🌟 Let's Collaborate!
+
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="mailto:arnair126@gmail.com" style="margin: 0 10px;">
