@@ -41,7 +41,7 @@ class Aravind:
     def current_focus(self):
         return "Building intelligent systems that solve real-world problems"
 ```
-
+```
 🛠️ Tech Stack
 Languages
 https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
