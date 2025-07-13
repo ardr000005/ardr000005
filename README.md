@@ -44,7 +44,7 @@ class Aravind:
     def fun_fact(self):
         return "I can solve a Rubik's cube in under 2 minutes!"
 
-
+```
 🧠 Tech Stack — 3D Spiral Cube
 <div align="center"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="100%"> </div>
 🚀 Featured Projects
