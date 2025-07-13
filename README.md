@@ -51,16 +51,41 @@ Databases
 <p> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 Tools & Platforms
 <p> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> </p>
-� Featured Projects
-Project	Tech Stack	Description
-Privio	Python, OpenCV, TensorFlow	Real-time traffic violation detection system with geotagging
-Medamex	Solidity, IPFS, React	Decentralized medical records management system
-WhatsApp AI Bot	Node.js, WebSocket, Gemini API	Intelligent chatbot with multiple AI integrations
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardr000005&theme=radical&hide_border=true" width="48%"> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true"> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
+---
 
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[Privio](https://github.com/ardr000005/privio)** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> | Real-time traffic violation detection system with geotagging |
+| **Medamex** | <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> | Decentralized medical records management system |
+| **WhatsApp AI Bot** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/> | Intelligent chatbot with multiple AI integrations |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardr000005&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" alt="Top Languages">
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies">
+</div>
 
 ### 🌐 Let's Connect
 
