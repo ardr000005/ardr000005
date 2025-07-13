@@ -69,23 +69,10 @@ Tools & Platforms
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardr000005&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" alt="Top Languages">
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies">
-</div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardr000005&theme=radical&hide_border=true" width="48%"> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true"> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
 
 ### 🌐 Let's Connect
 
