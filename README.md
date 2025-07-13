@@ -62,16 +62,34 @@ WhatsApp AI Bot	Node.js, WebSocket, Gemini API	Intelligent chatbot with multiple
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
 
 🌐 Let's Connect
-<div align="center"> <a href="mailto:arnair126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/Aravind-R-Nair-8321482b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/ardr000005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </div>
+### 🌟 Let's Collaborate!
 
 <div align="center">
-  <p style="font-size: 1.2rem; font-style: italic;">
-    "You don't have to be a genius to start —<br>
-    you just need the courage to begin, the patience to learn,<br>
-    and the fire to keep showing up every single day."<br>
-    — Anonymous
-  </p>
+  <a href="mailto:arnair126@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/Aravind-R-Nair-8321482b2" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ardr000005" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
+<br>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"> </div> 
+<div align="center" style="background: linear-gradient(90deg, rgba(0,240,255,0.1) 0%, rgba(0,0,0,0) 50%, rgba(0,240,255,0.1) 100%); padding: 20px; border-radius: 10px;">
+  <p style="font-size: 1.1rem; font-style: italic; line-height: 1.6; color: #00F0FF;">
+    "You don't have to be a genius to start —<br>
+    you just need the courage to begin,<br>
+    the patience to learn,<br>
+    and the fire to keep showing up every single day."
+  </p>
+  <p style="font-size: 0.9rem; margin-top: 10px;">— Anonymous</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:00F0FF&height=120&section=footer&animation=fadeIn&fontSize=30">
+</div>
