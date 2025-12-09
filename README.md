@@ -78,33 +78,6 @@ Tools & Platforms
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ardr000005&show_icons=true&theme=radical&hide_border=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ardr000005&theme=radical&hide_border=true" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardr000005&layout=compact&theme=radical&hide_border=true" 
-  />
-</p>
-
-## 🏆 Git GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" 
-  />
-</p>
-
 ### 🌐 Let's Connect
 
 <div align="center">
